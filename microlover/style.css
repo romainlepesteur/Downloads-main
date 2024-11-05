@@ -1,0 +1,28 @@
+#blue{
+    color: blue;
+}
+
+.nav{
+    
+
+    display: inline-flex;
+    align-items: center;  
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-inline-start: 3%;
+    margin-inline-end: 3%;
+
+}
+
+button{
+    background-color: #3f64f0;
+    border-radius: 30%;
+}
+
+.logo{
+    font-size: 175%;
+}
