@@ -26,3 +26,8 @@ button{
 .logo{
     font-size: 175%;
 }
+
+
+.descr{
+    display: block;
+}
